@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "name": "John",
+      "age": 30,
+      "department": "HR"
+    },
+    {
+      "name": "Alice",
+      "age": 25,
+      "department": "Engineering"
+    },
+    {
+      "name": "Bob",
+      "age": 35,
+      "department": "Finance"
+    },
+    {
+      "name": "Sarah",
+      "age": 28,
+      "department": "Marketing"
+    }
+  ],
+  "company": "TechCorp",
+  "location": "San Francisco"
+}
